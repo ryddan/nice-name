@@ -1,0 +1,22 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-dotnettools.csharp",
+        "ms-vscode.cpptools",
+        "oracle.oracle-java",
+        "wscats.eno",
+        "cesium.gltf-vscode",
+        "mmarchand.nsi-dev",
+        "thisdotmatt.condasync",
+        "shakram02.bash-beautify",
+        "lastmile-ai.vscode-aiconfig",
+        "ms-vscode-remote.remote-containers",
+        "eamodio.gitlens",
+        "visualstudioexptteam.vscodeintellicode",
+        "twxs.cmake",
+        "mikestead.dotenv",
+        "ms-azuretools.vscode-docker",
+        "vscjava.vscode-java-debug",
+        "ms-vscode.cmake-tools"
+    ]
+}

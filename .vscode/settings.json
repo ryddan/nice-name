@@ -1,0 +1,14 @@
+{
+    "nsi-dev.MSYS2Enabled": false,
+    "condasync.Environment Path": "ds,base,extras",
+    "condasync.YML File Path": "",
+    "workbench.externalBrowser": "firefox",
+    "terminal.integrated.cwd": "/home/ryddan",
+    "terminal.integrated.enableImages": true,
+    "terminal.integrated.shellIntegration.history": 150,
+    "terminal.integrated.suggest.enabled": true,
+    "compile-hero.disable-compile-files-on-did-save-code": false,
+    "typescript.tsdk": "/home/ryddan/.sonarlint/.sonarlinttmp_3628540221587411206/bridge-bundle/package/node_modules/typescript/lib",
+    "terminal.integrated.suggest.runOnEnter": "exactMatchIgnoreExtension",
+    "files.autoSave": "onFocusChange"
+}

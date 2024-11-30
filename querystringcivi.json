@@ -1,0 +1,7 @@
+{
+    "url": "https://civitai.com/api/v1/models",
+    "token": "--d4a739dec2d7e7c7e3ba02c747c87218",
+    "headers": {
+        "Content-Type": "application/json"
+    }
+}
